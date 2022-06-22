@@ -1,0 +1,15 @@
+.section_size_narrow {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .section_size_narrow {
+    max-width: 984px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .section_size_narrow {
+    width: 83.11%;
+  }
+}

@@ -1,0 +1,15 @@
+.section_padding_bottom {
+  padding-top: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .section_padding_bottom {
+    padding-top: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .section_padding_bottom {
+    padding-top: 0;
+  }
+}
