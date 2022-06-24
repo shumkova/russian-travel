@@ -2,10 +2,15 @@
 @import '../vendor/fonts.css';
 @import '../blocks/page/page.css';
 
+@import '../blocks/link/link.css';
+
+@import '../blocks/container/container.css';
+@import '../blocks/container/_size/container_size_sm.css';
+@import '../blocks/container/_lead/container_lead.css';
+
 @import '../blocks/section/section.css';
 @import '../blocks/section/_padding/section_padding_bottom.css';
 @import '../blocks/section/_padding/section_padding_top.css';
-@import '../blocks/section/_size/section_size_narrow.css';
 
 @import '../blocks/header/header.css';
 @import '../blocks/header/__logo/header__logo.css';
@@ -19,7 +24,6 @@
 @import '../blocks/lead/__image/lead__image.css';
 @import '../blocks/lead/__caption/lead__caption.css';
 
-@import '../blocks/intro/intro.css';
 @import '../blocks/intro/__content/intro__content.css';
 @import '../blocks/intro/__title/intro__title.css';
 @import '../blocks/intro/__text/intro__text.css';
@@ -27,7 +31,6 @@
 @import '../blocks/intro/__list-item/intro__list-item.css';
 @import '../blocks/intro/__fact/intro__fact.css';
 
-@import '../blocks/photo-grid/photo-grid.css';
 @import '../blocks/photo-grid/__list/photo-grid__list.css';
 @import '../blocks/photo-grid/__item/photo-grid__item.css';
 @import '../blocks/photo-grid/__image/photo-grid__image.css';
@@ -41,8 +44,18 @@
 @import '../blocks/place/__link/place__link.css';
 @import '../blocks/place/__image-container/place__image-container.css';
 @import '../blocks/place/__image/place__image.css';
-@import '../blocks/place/__description/place__description.css';
 @import '../blocks/place/__paragraph/place__paragraph.css';
+
+@import '../blocks/cover/cover.css';
+@import '../blocks/cover/__link/cover__link.css';
+@import '../blocks/cover/__title/cover__title.css';
+@import '../blocks/cover/__subtitle/cover__subtitle.css';
+@import '../blocks/cover/__background/cover__background.css';
+
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__links/footer__links.css';
+@import '../blocks/footer/__link/footer__link.css';
+@import '../blocks/footer/__copyright/footer__copyright.css';
 
 
 

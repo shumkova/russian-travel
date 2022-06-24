@@ -2,10 +2,7 @@
 /*https://www.htmlcsscolor.com/hex/334482*/
 
 .page {
-  margin: 0 auto;
   min-width: 320px;
-  max-width: 1600px;
-  box-sizing: border-box;
 
   padding-top: 28px;
   padding-bottom: 24px;
@@ -30,13 +27,6 @@
   -moz-text-size-adjust: 100%;
 
   background-color: var(--color-bg-main);
-}
-
-@media screen and (min-width: 1024px) {
-  .page {
-    padding-left: 48px;
-    padding-right: 48px;
-  }
 }
 
 @media screen and (max-width: 767px) {

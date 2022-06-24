@@ -1,0 +1,9 @@
+@media screen and (min-width: 1280px) {
+  .container_size_sm {
+    width: 76.88%;
+    max-width: 1230px;
+
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
