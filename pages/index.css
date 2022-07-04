@@ -1,12 +1,14 @@
 @import '../vendor/normalize.css';
 @import '../vendor/fonts.css';
+
+@import '../blocks/root/root.css';
 @import '../blocks/page/page.css';
 
 @import '../blocks/link/link.css';
 
 @import '../blocks/container/container.css';
 @import '../blocks/container/_size/container_size_sm.css';
-@import '../blocks/container/_lead/container_lead.css';
+@import '../blocks/container/_padding/container_padding_dt-only.css';
 
 @import '../blocks/section/section.css';
 @import '../blocks/section/_padding/section_padding_bottom.css';
@@ -34,8 +36,6 @@
 @import '../blocks/photo-grid/__list/photo-grid__list.css';
 @import '../blocks/photo-grid/__item/photo-grid__item.css';
 @import '../blocks/photo-grid/__image/photo-grid__image.css';
-
-@import '../blocks/places/places.css';
 
 @import '../blocks/place/place.css';
 @import '../blocks/place/__title/place__title.css';

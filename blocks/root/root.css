@@ -1,0 +1,7 @@
+:root {
+  --color-bunker: #2A2C2F;
+  --color-dark-gray: #AAAAAA;
+  --color-white: #fff;
+
+  --color-bg-main: var(--color-bunker);
+  --color-text-main: var(--color-white);}

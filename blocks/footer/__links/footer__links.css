@@ -8,6 +8,6 @@
   .footer__links {
     display: flex;
     flex-wrap: wrap;
-    gap: 19px; /* не по макету, но так лучше попадает в пп */
+    gap: 19px;
   }
 }

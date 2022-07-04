@@ -14,8 +14,4 @@
     margin-bottom: 25px;
     font-size: 16px;
   }
-
-  .place__paragraph:last-child {
-    margin-bottom: 0;
-  }
 }

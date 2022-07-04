@@ -7,13 +7,6 @@
   padding-top: 28px;
   padding-bottom: 24px;
 
-  --color-bunker: #2A2C2F;
-  --color-dark-gray: #AAAAAA;
-  --color-white: #fff;
-
-  --color-bg-main: var(--color-bunker);
-  --color-text-main: var(--color-white);
-
   color: var(--color-text-main);
 
   font-family: 'Inter', 'Arial', sans-serif;
