@@ -2,9 +2,6 @@
   z-index: 1;
   position: relative;
 
-  height: 57.8vw;
-  max-height: 925px;
-
   box-sizing: border-box;
 
   display: flex;
@@ -12,8 +9,8 @@
   align-items: center;
   justify-content: center;
 
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 245px;
+  padding-bottom: 245px;
 
   color: var(--color-text-main);
 
@@ -43,14 +40,14 @@
 @media screen and (max-width: 1279px) {
   .cover__link {
     height: auto;
-    min-height: 62.5vw;
+    padding-top: 195px;
+    padding-bottom: 195px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .cover__link {
-    padding-left: 24px;
-    padding-right: 24px;
+    padding: 115px 24px;
   }
 }
 
